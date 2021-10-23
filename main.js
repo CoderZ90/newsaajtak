@@ -1,6 +1,6 @@
 // Variables
 // let apiKeyBackup = "f105bed2b9ad4a5fb83285b20d550f51";
-let apiKey = "e9894dd20da64f819ad066e2422fc645";
+let apiKey = "f105bed2b9ad4a5fb83285b20d550f51";
 let source = 'the-times-of-india';
 
 // Getting Elements
